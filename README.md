@@ -8,6 +8,16 @@
 
 **本项目主要是为了更好的熟悉rem布局，刚好在github上看到bergwhite的https://github.com/bergwhite/v2ex-vue.git 项目，所以便重新写了这个项目。**
 
+## 项目部分截图
+
+* 首页
+
+![topic](https://github.com/chenxiaohuan/v2ex-vuedemo/blob/master/screenshots/index.png?raw=true)
+
+* 文章详情页
+
+![article & user](https://github.com/chenxiaohuan/v2ex-vuedemo/blob/master/screenshots/article_detail.png?raw=true)
+
 ## Build Setup
 
 ``` bash
